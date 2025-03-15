@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/aminuzz/<OWNER>/<OWNER>/Headline.png "Header")]
+[![Header](https://raw.githubusercontent.com/aminuzz/aminuzz/main/Headline.png "Header")]
+
 
 
 ## Hi there 👋
