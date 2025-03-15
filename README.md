@@ -7,7 +7,7 @@ Hi, I'm Aminuz! I'm a Computer Science student at the New York Institute of Tech
    <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux&logoColor=white" height="40" width="150">
 </p>
 <p>
-   <imh src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" height="40" width="150">
+   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux&logoColor=white" height="40" width="150">
 
 </p>
 
