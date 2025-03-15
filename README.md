@@ -14,7 +14,7 @@ Hi, I'm Aminuz! I'm a Computer Science student at the New York Institute of Tech
 ![Static Badge](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Shell-Bash-blue?style=flat-square&logo=gnubash&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Shell-Command%20Line-blue?style=flat-square&logo=gnometerminal&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Security%20Tools-Metasploit-blue?style=flat-square&logo=metasploit&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tools-Metasploit-blue?style=flat-square&logo=metasploit&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Tools-Wireshark-blue?style=flat&logo=wireshark&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer-blue?style=flat&logo=cisco&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white&logoSize=auto)
