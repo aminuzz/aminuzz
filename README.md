@@ -3,7 +3,7 @@
 Hi, I'm Aminuz! I'm a Computer Science student at the New York Institute of Technology with a concentration in Network Security. Passionate about cybersecurity and software development, I’m on a journey to strengthen my skills in ethical hacking, system security, and secure coding practices. I enjoy working on hands-on projects, from scripting in Python to exploring networking fundamentals. Currently, I'm pursuing the Google Cybersecurity Certification to expand my knowledge and plan to dive deeper into networking with Cisco. Always eager to learn and grow, I'm actively building projects and refining my problem-solving abilities. Let's connect and build something great!
 
 ## 🛠️ Technologies & Tools
-![Static Badge](https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<linux>&logoColor=white&color=2bbc8a)
 ![Static Badge](https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java&logoColor=white&logoSize=auto)
