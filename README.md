@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/aminuzz/aminuzz/main/Headline.png "Header")]
+<a href="#"><img src="https://raw.githubusercontent.com/aminuzz/aminuzz/main/Headline.png" alt="Header" title="Header"></a>
+
 
 
 
