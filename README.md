@@ -42,7 +42,7 @@ Hi, I'm Aminuz! I'm a Computer Science student at the New York Institute of Tech
 ![Static Badge](https://img.shields.io/badge/Platforms-Azure-blue?style=flat&logoColor=white&logoSize=auto)
 
 ## 📈GitHub stats
-![Aminuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuzz&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminuzz)](https://github.com/aminuzz/github-readme-stats)
+![Aminuz's GitHub stats](https://github-stats-extended.vercel.app/api?username=aminuzz&theme=radical) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=aminuzz)]
 
 
 
