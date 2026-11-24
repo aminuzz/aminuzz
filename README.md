@@ -35,7 +35,7 @@ Hi, I'm Aminuz, a Computer Science student at the New York Institute of Technolo
 
 ## 🎯 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/laminate.png)](https://tryhackme.com/p/laminate)
+[![TryHackMe](assets/tryhackme-badge.png)](https://tryhackme.com/p/laminate)
 
 ## 🔗 Connect
 
