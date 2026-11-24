@@ -22,10 +22,20 @@ Hi, I'm Aminuz, a Computer Science student at the New York Institute of Technolo
 ![Docker](https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/Tools-VMware-blue?style=flat&logo=vmware&logoColor=white)
 
+## 📜 Certifications
+
+- CompTIA Security+ (in progress)
+- Cisco CCNA (planned)
+
 ## 📈 GitHub Stats
 
-![Aminuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuzz&show_icons=true&theme=radical)
+![Aminuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuzz&show_icons=true&include_all_commits=true&hide_rank=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminuzz&layout=compact&langs_count=20&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aminuzz&theme=radical)
+
+## 🎯 TryHackMe
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/laminate.png)](https://tryhackme.com/p/laminate)
 
 ## 🔗 Connect
 
