@@ -25,7 +25,7 @@ Hi, I'm Aminuz, a Computer Science student at the New York Institute of Technolo
 ## 📈 GitHub Stats
 
 ![Aminuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminuzz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminuzz&layout=compact&langs_count=20&theme=radical)
 
 ## 🔗 Connect
 
